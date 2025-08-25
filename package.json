@@ -1,0 +1,37 @@
+{
+  "name": "basu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "react": "^18.0.0",
+    "react-cookie": "^8.0.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.8.2",
+    "react-scripts": "^5.0.0",
+    "sass": "^1.90.0",
+    "styled-components": "^6.1.19"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^19.1.7",
+    "typescript": "^4.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
